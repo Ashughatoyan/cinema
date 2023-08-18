@@ -92,7 +92,7 @@ const returnStyles = (open : boolean) => ({
 const useStyles = makeStyles( (open : boolean) => ({
 
     Drawer: {
-        backgroundImage: 'linear-gradient(to right, rgba(4,4,4 ), rgba(4,4,4,.5)) !important',
+        backgroundImage: 'linear-gradient(to right, rgba(4,4,4 ), rgba(4,4,4,.9)) !important',
         border: 'none !important',
         height: '100%',
         display: 'flex',
