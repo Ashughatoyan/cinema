@@ -1,0 +1,116 @@
+{
+	"Featured": {
+		"Id": "1",
+		"Title": "The Irishman",
+		"CoverImage": "irishman.png",
+		"ReleaseYear": "2019",
+		"MpaRating": "18+",
+		"Category": "Movie",
+		"Duration": "209",
+		"VideoUrl": "https://www.youtube.com/embed/WHXxVmeGQUc?si=4K86rJkfiGUcqHO-",
+		"Description": "An illustration of Frank Sheeran's life, from W.W.II veteran to hit-man for the Bufalino crime family and his alleged assassination of his close friend Jimmy Hoffa."
+	},
+	"TendingNow": [
+		{
+			"Id": "2",
+			"Title": "Barbie",
+			"CoverImage": "barbie.png",
+			"ReleaseYear": "2023",
+			"MpaRating": "14+",
+			"Category": "Movie",
+			"Duration": "114",
+			"Description": "Stereotypical Barbie ('Barbie') and fellow dolls reside in Barbieland; a matriarchal society with different variations of Barbies, Kens, and a group of discontinued models, who are treated like outcasts due to their unconventional traits. While the Kens spend their days playing at the beach, considering it as their profession, the Barbies hold prestigious jobs such as doctors, lawyers, and politicians. Beach Ken ('Ken') is only happy when he is with Barbie and seeks a closer relationship, but Barbie rebuffs him in favor of other activities and female friendships."
+		},
+		{
+			"Id": "3",
+			"Title": "Galaxy Keepers",
+			"CoverImage": "galaxy_keepers.png",
+			"ReleaseYear": "2014",
+			"MpaRating": "16+",
+			"Category": "Movie",
+			"Duration": "121",
+			"Description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe."
+		},
+		{
+			"Id": "4",
+			"Title": "The Good Doctor",
+			"CoverImage": "good_doctor.png",
+			"ReleaseYear": "2017",
+			"MpaRating": "18+",
+			"Category": "TV Show",
+			"Duration": "41",
+			"Description": "Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital."
+		},
+		{
+			"Id": "4",
+			"Title": "Hannibal",
+			"CoverImage": "hannibal.png",
+			"ReleaseYear": "2013",
+			"MpaRating": "18+",
+			"Category": "TV Show",
+			"Duration": "44",
+			"Description": "Explores the early relationship between renowned psychiatrist Hannibal Lecter and a young FBI criminal profiler who is haunted by his ability to empathize with serial killers."
+		},
+		{
+			"Id": "5",
+			"Title": "Kate",
+			"CoverImage": "kate.png",
+			"ReleaseYear": "2021",
+			"MpaRating": "17+",
+			"Category": "Movie",
+			"Duration": "200",
+			"Description": "The film received mixed reviews from critics, who praised Winstead's performance but found the film 'disappointingly derivative of numerous other female assassin films', and was released on September 10, 2021, by Netflix"
+		},
+		{
+			"Id": "6",
+			"Title": "Phantom",
+			"CoverImage": "phantom.png",
+			"ReleaseYear": "2013",
+			"MpaRating": "21+",
+			"Category": "Movie",
+			"Duration": "98",
+			"Description": "The haunted Captain of a Soviet submarine holds the fate of the world in his hands. Forced to leave his family behind, he is charged with leading a covert mission cloaked in mystery."
+		},
+		{
+			"Id": "7",
+			"Title": "Red Notice",
+			"CoverImage": "red_notice.png",
+			"ReleaseYear": "2021",
+			"MpaRating": "21+",
+			"Category": "Movie",
+			"Duration": "118",
+			"Description": "An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues."
+		},
+		{
+			"Id": "8",
+			"Title": "San Andreas",
+			"CoverImage": "san_andreas.png",
+			"ReleaseYear": "2015",
+			"MpaRating": "16+",
+			"Category": "Movie",
+			"Duration": "114",
+			"Description": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey with his ex-wife across the state in order to rescue his daughter."
+		},
+		{
+			"Id": "9",
+			"Title": "Sherlock",
+			"CoverImage": "sherlock.png",
+			"ReleaseYear": "2010",
+			"MpaRating": "14+",
+			"Category": "TV Show",
+			"Duration": "88",
+			"Description": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a 'high-functioning sociopath' in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance."
+		},
+		{
+			"Id": "10",
+			"Title": "The People Under the Stairs",
+			"CoverImage": "stairs.png",
+			"ReleaseYear": "1991",
+			"MpaRating": "21+",
+			"Category": "Movie",
+			"Duration": "102",
+			"VideoUrl": "https://www.youtube.com/embed/gx4jKIzvVUo?si=UO5QBt0ASFQjgI6i",
+			"Description": "Two adults and a juvenile break into a house occupied by a brother and sister and their stolen children. There, they must fight for their lives."
+		}	
+	]
+}
